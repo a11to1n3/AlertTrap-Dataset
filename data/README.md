@@ -8,7 +8,6 @@
 ## Specificality
 - The images and their annotations are named after the time they have been captured, with the following format: YYYY-MM-DD-hh-mm-ss.*
 - Annotation `xml` format:
-Sample entry:
 ### Dataset Format ###
 
 Sample Entry:
