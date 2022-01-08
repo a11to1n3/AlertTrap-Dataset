@@ -6,7 +6,7 @@
 ~~~bibtex
 @article{an2022alerttrap,
   title={AlertTrap: A study on object detection in remote insect trap monitoring system using on-the-edge deep learning platform},
-  author={An D., Le and Duy A., Pham and Dong T. and Pham  and Hien B., Vo},
+  author={An D., Le and Duy A., Pham and Dong T., Pham and Hien B., Vo},
   journal={},
   year={2022}
 }
