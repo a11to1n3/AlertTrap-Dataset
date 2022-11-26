@@ -4,9 +4,9 @@
 - Link to dataset: https://bit.ly/alerttrap 
 - Please cite our paper when you use our dataset with this bib
 ~~~bibtex
-@article{an2022alerttrap,
-  title={AlertTrap: A study on object detection in remote insect trap monitoring system using on-the-edge deep learning platform},
-  author={An D., Le and Duy A., Pham and Dong T., Pham and Hien B., Vo},
-  journal={},
-  year={2022}
+@article{le2021alerttrap,
+  title={AlertTrap: A study on object detection in remote insects trap monitoring system using on-the-edge deep learning platform},
+  author={Le, An D and Pham, Duy A and Pham, Dong T and Vo, Hien B},
+  journal={arXiv preprint arXiv:2112.13341},
+  year={2021}
 }
