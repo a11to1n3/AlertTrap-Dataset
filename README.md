@@ -1,6 +1,6 @@
 # AlertTrap Official Dataset
 
-- This is the AlertTrap Official Dataset provided as part of the following paper: [Paper link]
+- This is the AlertTrap Official Dataset provided as part of the following paper: [[Paper link]](https://arxiv.org/abs/2112.13341)
 - Link to dataset: https://bit.ly/alerttrap 
 - Please cite our paper when you use our dataset with this bib
 ~~~bibtex
